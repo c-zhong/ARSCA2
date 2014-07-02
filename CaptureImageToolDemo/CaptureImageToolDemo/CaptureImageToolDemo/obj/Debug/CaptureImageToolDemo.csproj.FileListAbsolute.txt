@@ -1,0 +1,32 @@
+C:\Users\TuJianKai\Desktop\CaptureImageToolDemo\CaptureImageToolDemo\bin\Debug\CaptureImageToolDemo.exe
+C:\Users\TuJianKai\Desktop\CaptureImageToolDemo\CaptureImageToolDemo\bin\Debug\CaptureImageToolDemo.pdb
+C:\Users\TuJianKai\Desktop\CaptureImageToolDemo\CaptureImageToolDemo\bin\Debug\CaptureImageTool.dll
+C:\Users\TuJianKai\Desktop\CaptureImageToolDemo\CaptureImageToolDemo\bin\Debug\SystemMenu.dll
+C:\Users\TuJianKai\Desktop\CaptureImageToolDemo\CaptureImageToolDemo\bin\Debug\CaptureImageTool.pdb
+C:\Users\TuJianKai\Desktop\CaptureImageToolDemo\CaptureImageToolDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TuJianKai\Desktop\CaptureImageToolDemo\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.AboutBoxCSharpWinDemo.resources
+C:\Users\TuJianKai\Desktop\CaptureImageToolDemo\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.FormCSharpWinDemo.resources
+C:\Users\TuJianKai\Desktop\CaptureImageToolDemo\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.Properties.Resources.resources
+C:\Users\TuJianKai\Desktop\CaptureImageToolDemo\CaptureImageToolDemo\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\TuJianKai\Desktop\CaptureImageToolDemo\CaptureImageToolDemo\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\TuJianKai\Desktop\CaptureImageToolDemo\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.exe
+C:\Users\TuJianKai\Desktop\CaptureImageToolDemo\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.pdb
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-04-07--UI_Screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageToolDemo\bin\Debug\CaptureImageToolDemo.exe
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-04-07--UI_Screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageToolDemo\bin\Debug\CaptureImageToolDemo.pdb
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-04-07--UI_Screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageToolDemo\bin\Debug\CaptureImageTool.dll
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-04-07--UI_Screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageToolDemo\bin\Debug\SystemMenu.dll
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-04-07--UI_Screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageToolDemo\bin\Debug\CaptureImageTool.pdb
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-04-07--UI_Screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageToolDemo\obj\Debug\ResolveAssemblyReference.cache
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-04-07--UI_Screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.AboutBoxCSharpWinDemo.resources
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-04-07--UI_Screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.FormCSharpWinDemo.resources
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-04-07--UI_Screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.Properties.Resources.resources
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-04-07--UI_Screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageToolDemo\obj\Debug\ResGen.read.1.tlog
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-04-07--UI_Screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageToolDemo\obj\Debug\ResGen.read.4.tlog
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-04-07--UI_Screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageToolDemo\obj\Debug\ResGen.read.5.tlog
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-04-07--UI_Screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageToolDemo\obj\Debug\ResGen.read.6.tlog
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-04-07--UI_Screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageToolDemo\obj\Debug\ResGen.write.1.tlog
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-04-07--UI_Screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageToolDemo\obj\Debug\ResGen.write.4.tlog
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-04-07--UI_Screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageToolDemo\obj\Debug\ResGen.write.5.tlog
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-04-07--UI_Screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageToolDemo\obj\Debug\ResGen.write.6.tlog
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-04-07--UI_Screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.exe
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-04-07--UI_Screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.pdb

@@ -1,0 +1,44 @@
+E:\Google Drive\muri\code\experience_based_cyber_sa-2013-04-07--ui_screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\bin\Debug\CaptureImageTool.dll
+E:\Google Drive\muri\code\experience_based_cyber_sa-2013-04-07--ui_screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\bin\Debug\CaptureImageTool.pdb
+E:\Google Drive\muri\code\experience_based_cyber_sa-2013-04-07--ui_screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\ResolveAssemblyReference.cache
+E:\Google Drive\muri\code\experience_based_cyber_sa-2013-04-07--ui_screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.CaptureImageTool.resources
+E:\Google Drive\muri\code\experience_based_cyber_sa-2013-04-07--ui_screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.ColorSelector.resources
+E:\Google Drive\muri\code\experience_based_cyber_sa-2013-04-07--ui_screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.DrawToolsControl.resources
+E:\Google Drive\muri\code\experience_based_cyber_sa-2013-04-07--ui_screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.Properties.Resources.resources
+E:\Google Drive\muri\code\experience_based_cyber_sa-2013-04-07--ui_screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\ResGen.read.1.tlog
+E:\Google Drive\muri\code\experience_based_cyber_sa-2013-04-07--ui_screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\ResGen.read.7.tlog
+E:\Google Drive\muri\code\experience_based_cyber_sa-2013-04-07--ui_screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\ResGen.read.9.tlog
+E:\Google Drive\muri\code\experience_based_cyber_sa-2013-04-07--ui_screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\ResGen.write.1.tlog
+E:\Google Drive\muri\code\experience_based_cyber_sa-2013-04-07--ui_screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\ResGen.write.7.tlog
+E:\Google Drive\muri\code\experience_based_cyber_sa-2013-04-07--ui_screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\ResGen.write.9.tlog
+E:\Google Drive\muri\code\experience_based_cyber_sa-2013-04-07--ui_screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\CaptureImageTool.dll
+E:\Google Drive\muri\code\experience_based_cyber_sa-2013-04-07--ui_screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\CaptureImageTool.pdb
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-04-07--UI_Screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\ResGen.read.10.tlog
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-04-07--UI_Screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\ResGen.write.10.tlog
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-04-07--UI_Screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.CaptureImageTool2.resources
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-04-07--UI_Screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\ResGen.read.11.tlog
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-04-07--UI_Screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\ResGen.read.8.tlog
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-04-07--UI_Screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\ResGen.write.11.tlog
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-04-07--UI_Screenshot\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\ResGen.write.8.tlog
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-07-16--Reduce Load Time - DB - VirtualMode\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\bin\Debug\CaptureImageTool.dll
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-07-16--Reduce Load Time - DB - VirtualMode\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\bin\Debug\CaptureImageTool.pdb
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-07-16--Reduce Load Time - DB - VirtualMode\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\ResolveAssemblyReference.cache
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-07-16--Reduce Load Time - DB - VirtualMode\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.CaptureImageTool.resources
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-07-16--Reduce Load Time - DB - VirtualMode\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.ColorSelector.resources
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-07-16--Reduce Load Time - DB - VirtualMode\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.CaptureImageTool2.resources
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-07-16--Reduce Load Time - DB - VirtualMode\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.DrawToolsControl.resources
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-07-16--Reduce Load Time - DB - VirtualMode\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.Properties.Resources.resources
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-07-16--Reduce Load Time - DB - VirtualMode\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\ResGen.read.1.tlog
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-07-16--Reduce Load Time - DB - VirtualMode\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\ResGen.read.10.tlog
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-07-16--Reduce Load Time - DB - VirtualMode\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\ResGen.read.11.tlog
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-07-16--Reduce Load Time - DB - VirtualMode\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\ResGen.read.7.tlog
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-07-16--Reduce Load Time - DB - VirtualMode\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\ResGen.read.8.tlog
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-07-16--Reduce Load Time - DB - VirtualMode\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\ResGen.read.9.tlog
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-07-16--Reduce Load Time - DB - VirtualMode\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\ResGen.write.1.tlog
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-07-16--Reduce Load Time - DB - VirtualMode\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\ResGen.write.10.tlog
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-07-16--Reduce Load Time - DB - VirtualMode\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\ResGen.write.11.tlog
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-07-16--Reduce Load Time - DB - VirtualMode\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\ResGen.write.7.tlog
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-07-16--Reduce Load Time - DB - VirtualMode\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\ResGen.write.8.tlog
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-07-16--Reduce Load Time - DB - VirtualMode\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\ResGen.write.9.tlog
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-07-16--Reduce Load Time - DB - VirtualMode\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\CaptureImageTool.dll
+E:\Google Drive\MURI\Code\Experience_Based_Cyber_SA-2013-07-16--Reduce Load Time - DB - VirtualMode\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\obj\Debug\CaptureImageTool.pdb

@@ -1,0 +1,297 @@
+DataTime,SourceIP,DestIP,Category,Priority,Description, SourcePort, DestPort
+4/6/2012 0:00,172.23.0.227,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1799,445
+4/6/2012 0:00,172.23.0.227,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1799,445
+4/6/2012 0:00,172.23.0.236,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1878,445
+4/6/2012 0:00,172.23.0.236,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1878,445
+4/6/2012 0:00,172.23.0.215,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1827,445
+4/6/2012 0:00,172.23.0.215,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1827,445
+4/6/2012 0:00,172.23.0.229,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1861,445
+4/6/2012 0:00,172.23.0.229,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1861,445
+4/6/2012 0:00,172.23.0.216,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1849,445
+4/6/2012 0:00,172.23.0.216,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1849,445
+4/6/2012 0:00,172.23.0.232,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1808,445
+4/6/2012 0:00,172.23.0.232,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1808,445
+4/6/2012 0:00,172.23.0.214,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1858,445
+4/6/2012 0:00,172.23.0.214,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1858,445
+4/6/2012 0:00,172.23.0.219,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1181,445
+4/6/2012 0:00,172.23.0.219,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1181,445
+4/6/2012 0:00,172.23.0.210,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1183,445
+4/6/2012 0:00,172.23.0.234,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1835,445
+4/6/2012 0:00,172.23.0.210,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1183,445
+4/6/2012 0:00,172.23.0.234,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1835,445
+4/6/2012 0:00,172.23.0.226,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1783,445
+4/6/2012 0:00,172.23.0.226,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1783,445
+4/6/2012 0:00,172.23.0.246,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1336,445
+4/6/2012 0:00,172.23.0.246,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1336,445
+4/6/2012 0:00,172.23.0.249,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1194,445
+4/6/2012 0:00,172.23.0.249,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1194,445
+4/6/2012 0:00,172.23.0.239,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1634,445
+4/6/2012 0:00,172.23.0.239,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1634,445
+4/6/2012 0:00,172.23.0.245,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1344,445
+4/6/2012 0:00,172.23.0.245,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1344,445
+4/6/2012 0:00,172.23.0.233,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1879,445
+4/6/2012 0:00,172.23.0.238,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1811,445
+4/6/2012 0:00,172.23.0.233,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1879,445
+4/6/2012 0:00,172.23.0.238,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1811,445
+4/6/2012 0:00,172.23.0.218,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1183,445
+4/6/2012 0:00,172.23.0.218,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1183,445
+4/6/2012 0:00,172.23.0.220,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1187,445
+4/6/2012 0:00,172.23.0.220,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1187,445
+4/6/2012 0:00,172.23.0.225,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1814,445
+4/6/2012 0:00,172.23.0.225,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1814,445
+4/6/2012 0:00,172.23.0.186,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1359,445
+4/6/2012 0:00,172.23.0.186,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1359,445
+4/6/2012 0:00,172.23.0.240,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1328,445
+4/6/2012 0:00,172.23.0.240,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1328,445
+4/6/2012 0:00,172.23.0.237,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1971,445
+4/6/2012 0:00,172.23.0.237,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1971,445
+4/6/2012 0:00,172.23.0.223,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1845,445
+4/6/2012 0:00,172.23.0.223,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1845,445
+4/6/2012 0:00,172.23.0.235,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1847,445
+4/6/2012 0:00,172.23.0.235,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1847,445
+4/6/2012 0:00,172.23.0.253,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1199,445
+4/6/2012 0:00,172.23.0.253,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1199,445
+4/6/2012 0:00,172.23.0.252,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1196,445
+4/6/2012 0:00,172.23.0.252,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1196,445
+4/6/2012 0:00,172.23.0.250,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1190,445
+4/6/2012 0:00,172.23.0.250,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1190,445
+4/6/2012 0:00,172.23.0.231,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1838,445
+4/6/2012 0:00,172.23.0.231,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1838,445
+4/6/2012 0:00,172.23.2.100,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1194,445
+4/6/2012 0:00,172.23.2.100,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1194,445
+4/6/2012 0:00,172.23.0.247,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1340,445
+4/6/2012 0:00,172.23.0.247,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1340,445
+4/6/2012 0:00,172.23.0.221,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1775,445
+4/6/2012 0:00,172.23.0.255,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1195,445
+4/6/2012 0:00,172.23.0.221,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1775,445
+4/6/2012 0:00,172.23.0.255,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1195,445
+4/6/2012 0:00,172.23.0.251,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1197,445
+4/6/2012 0:00,172.23.0.251,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1197,445
+4/6/2012 0:00,172.23.0.242,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1891,445
+4/6/2012 0:00,172.23.0.242,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1891,445
+4/6/2012 0:00,172.23.0.209,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1866,445
+4/6/2012 0:00,172.23.0.209,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1866,445
+4/6/2012 0:00,172.23.0.228,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1818,445
+4/6/2012 0:00,172.23.0.228,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1818,445
+4/6/2012 0:00,172.23.0.243,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1860,445
+4/6/2012 0:00,172.23.0.243,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1860,445
+4/6/2012 0:00,172.23.0.244,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1302,445
+4/6/2012 0:00,172.23.0.244,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1302,445
+4/6/2012 0:00,172.23.2.101,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1193,445
+4/6/2012 0:00,172.23.2.101,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1193,445
+4/6/2012 0:00,172.23.0.248,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1195,445
+4/6/2012 0:00,172.23.0.248,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1195,445
+4/6/2012 0:00,172.23.0.230,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1818,445
+4/6/2012 0:00,172.23.0.230,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1818,445
+4/6/2012 0:00,172.23.0.241,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1276,445
+4/6/2012 0:00,172.23.0.241,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1276,445
+4/6/2012 0:00,172.23.0.254,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1190,445
+4/6/2012 0:00,172.23.0.254,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1190,445
+4/6/2012 0:00,172.23.0.208,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1813,445
+4/6/2012 0:00,172.23.0.208,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1813,445
+4/6/2012 0:00,172.23.0.112,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1197,445
+4/6/2012 0:00,172.23.0.112,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1197,445
+4/6/2012 0:00,172.23.0.207,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1831,445
+4/6/2012 0:00,172.23.0.207,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1831,445
+4/6/2012 0:00,172.23.0.200,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1793,445
+4/6/2012 0:00,172.23.0.200,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1793,445
+4/6/2012 0:00,172.23.0.111,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1196,445
+4/6/2012 0:00,172.23.0.111,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1196,445
+4/6/2012 0:00,172.23.0.201,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1851,445
+4/6/2012 0:00,172.23.0.201,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1851,445
+4/6/2012 0:01,10.32.5.54,172.23.235.58, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,11468
+4/6/2012 0:01,10.32.5.56,172.23.235.58, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,11508
+4/6/2012 0:02,10.32.5.56,172.23.235.50, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,12508
+4/6/2012 0:03,10.32.5.58,172.23.239.127, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,9847
+4/6/2012 0:03,10.32.5.54,172.23.239.82, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,9848
+4/6/2012 0:03,10.32.5.56,172.23.240.39, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,9867
+4/6/2012 0:03,10.32.5.58,172.23.231.61, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,2405
+4/6/2012 0:03,10.32.5.56,172.23.231.199, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,2426
+4/6/2012 0:03,10.32.5.54,172.23.231.60, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,2432
+4/6/2012 0:04,10.32.5.54,172.23.240.155, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,9909
+4/6/2012 0:04,10.32.5.59,172.23.240.124, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,9910
+4/6/2012 0:04,10.32.5.56,172.23.240.156, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,9919
+4/6/2012 0:04,172.23.0.111,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1204,445
+4/6/2012 0:04,172.23.0.111,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1204,445
+4/6/2012 0:04,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:2003068:6] ET SCAN Potential SSH Scan OUTBOUND ,55932,22
+4/6/2012 0:04,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:2001219:18] ET SCAN Potential SSH Scan ,55932,22
+4/6/2012 0:04,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:2003068:6] ET SCAN Potential SSH Scan OUTBOUND ,38949,22
+4/6/2012 0:04,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:2001219:18] ET SCAN Potential SSH Scan ,38949,22
+4/6/2012 0:04,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:2003068:6] ET SCAN Potential SSH Scan OUTBOUND ,53301,22
+4/6/2012 0:04,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:2001219:18] ET SCAN Potential SSH Scan ,53301,22
+4/6/2012 0:04,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:2003068:6] ET SCAN Potential SSH Scan OUTBOUND ,49236,22
+4/6/2012 0:04,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:2001219:18] ET SCAN Potential SSH Scan ,49236,22
+4/6/2012 0:04,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:2003068:6] ET SCAN Potential SSH Scan OUTBOUND ,38950,22
+4/6/2012 0:04,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:2001219:18] ET SCAN Potential SSH Scan ,38950,22
+4/6/2012 0:04,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:2003068:6] ET SCAN Potential SSH Scan OUTBOUND ,62797,22
+4/6/2012 0:04,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:2001219:18] ET SCAN Potential SSH Scan ,62797,22
+4/6/2012 0:04,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:2003068:6] ET SCAN Potential SSH Scan OUTBOUND ,49237,22
+4/6/2012 0:04,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:2001219:18] ET SCAN Potential SSH Scan ,49237,22
+4/6/2012 0:04,10.32.5.57,172.23.231.68, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,2898
+4/6/2012 0:04,10.32.5.56,172.23.231.68, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,3022
+4/6/2012 0:04,10.32.5.54,172.23.233.59, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,14568
+4/6/2012 0:04,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,53648,161
+4/6/2012 0:04,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,53648,161
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Misc activity,3, [1:2002992:6] ET SCAN Rapid POP3 Connections - Possible Brute Force Attack ,62797,110
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,53649,161
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,53649,161
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,55932,161
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,55932,161
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,53079,161
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,53079,161
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,38949,161
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,38949,161
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,53301,161
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,53301,161
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,36765,161
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,36765,161
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,62796,161
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,62796,161
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,45793,161
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,45793,161
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,49236,161
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,49236,161
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,55933,161
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,55933,161
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,53080,161
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,53080,161
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,38950,161
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,38950,161
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Misc activity,3, [1:2002994:6] ET SCAN Rapid IMAP Connections - Possible Brute Force Attack ,36766,143
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,53302,161
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,53302,161
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,36766,161
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,36766,161
+4/6/2012 0:05,10.32.5.56,172.23.231.69, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,3553
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,62797,161
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,62797,161
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,45794,161
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,45794,161
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,49237,161
+4/6/2012 0:05,172.23.231.69,172.23.0.1, Attempted Information Leak,2, [1:1418:11] GPL SNMP request tcp ,49237,161
+4/6/2012 0:05,172.23.5.110,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1430,445
+4/6/2012 0:05,172.23.5.110,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1430,445
+4/6/2012 0:06,172.23.5.110,172.23.0.10, Generic Protocol Command Decode,3, [1:2100538:17] GPL NETBIOS SMB IPC$ unicode share access ,1433,139
+4/6/2012 0:06,172.23.5.110,172.23.0.10, Generic Protocol Command Decode,3, [1:2100538:17] GPL NETBIOS SMB IPC$ unicode share access ,1433,139
+4/6/2012 0:06,172.23.5.110,172.23.0.10, Generic Protocol Command Decode,3, [1:2103000:7] GPL NETBIOS SMB Session Setup NTMLSSP unicode asn1 overflow attempt ,1436,139
+4/6/2012 0:06,172.23.5.110,172.23.0.10, Generic Protocol Command Decode,3, [1:2100538:17] GPL NETBIOS SMB IPC$ unicode share access ,1436,139
+4/6/2012 0:06,172.23.1.107,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1181,445
+4/6/2012 0:06,172.23.1.107,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1181,445
+4/6/2012 0:06,172.23.1.109,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1190,445
+4/6/2012 0:06,172.23.1.109,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1190,445
+4/6/2012 0:06,172.23.1.106,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1238,445
+4/6/2012 0:06,172.23.1.106,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1238,445
+4/6/2012 0:06,172.23.1.112,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1188,445
+4/6/2012 0:06,172.23.1.112,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1188,445
+4/6/2012 0:06,172.23.5.113,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1215,445
+4/6/2012 0:06,172.23.5.113,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1215,445
+4/6/2012 0:06,172.23.1.115,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1189,445
+4/6/2012 0:06,172.23.1.115,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1189,445
+4/6/2012 0:06,172.23.1.111,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1181,445
+4/6/2012 0:06,172.23.1.111,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1181,445
+4/6/2012 0:06,172.23.1.108,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1181,445
+4/6/2012 0:06,172.23.1.108,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1181,445
+4/6/2012 0:06,172.23.1.110,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1187,445
+4/6/2012 0:06,172.23.1.110,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1187,445
+4/6/2012 0:06,172.23.1.104,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1190,445
+4/6/2012 0:06,172.23.1.104,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1190,445
+4/6/2012 0:06,172.23.1.114,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1190,445
+4/6/2012 0:06,172.23.1.114,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1190,445
+4/6/2012 0:06,172.23.1.105,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1232,445
+4/6/2012 0:06,172.23.1.105,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1232,445
+4/6/2012 0:06,172.23.1.113,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1190,445
+4/6/2012 0:06,172.23.1.113,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1190,445
+4/6/2012 0:06,172.23.5.114,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1216,445
+4/6/2012 0:06,172.23.5.114,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1216,445
+4/6/2012 0:06,172.23.1.125,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1247,445
+4/6/2012 0:06,172.23.1.125,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1247,445
+4/6/2012 0:06,172.23.5.120,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1215,445
+4/6/2012 0:06,172.23.5.120,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1215,445
+4/6/2012 0:06,172.23.1.128,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1247,445
+4/6/2012 0:06,172.23.1.128,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1247,445
+4/6/2012 0:06,172.23.1.103,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1247,445
+4/6/2012 0:06,172.23.1.103,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1247,445
+4/6/2012 0:06,172.23.5.121,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1212,445
+4/6/2012 0:06,172.23.5.121,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1212,445
+4/6/2012 0:06,172.23.1.127,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1246,445
+4/6/2012 0:06,172.23.1.127,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1246,445
+4/6/2012 0:06,172.23.1.126,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1247,445
+4/6/2012 0:06,172.23.1.126,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1247,445
+4/6/2012 0:06,172.23.1.120,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1248,445
+4/6/2012 0:06,172.23.1.130,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1247,445
+4/6/2012 0:06,172.23.1.120,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1248,445
+4/6/2012 0:06,172.23.1.130,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1247,445
+4/6/2012 0:06,172.23.5.115,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1215,445
+4/6/2012 0:06,172.23.5.117,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1215,445
+4/6/2012 0:06,172.23.5.115,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1215,445
+4/6/2012 0:06,172.23.5.117,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1215,445
+4/6/2012 0:06,172.23.1.119,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1247,445
+4/6/2012 0:06,172.23.1.119,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1247,445
+4/6/2012 0:06,172.23.5.124,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1215,445
+4/6/2012 0:06,172.23.5.124,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1215,445
+4/6/2012 0:06,172.23.1.100,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1247,445
+4/6/2012 0:06,172.23.1.100,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1247,445
+4/6/2012 0:06,10.32.5.56,172.23.231.68, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,4725
+4/6/2012 0:06,172.23.1.101,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,1247,445
+4/6/2012 0:06,172.23.1.101,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,1247,445
+4/6/2012 0:06,10.32.5.54,172.23.233.52, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,14738
+4/6/2012 0:07,10.32.5.58,172.23.238.126, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,9586
+4/6/2012 0:07,10.32.5.56,172.23.238.79, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,9592
+4/6/2012 0:07,10.32.5.54,172.23.233.31, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,14761
+4/6/2012 0:07,10.32.5.54,172.23.231.174, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,5293
+4/6/2012 0:07,172.23.236.8,172.23.0.1, Potentially Bad Traffic,2, [1:2010935:2] ET POLICY Suspicious inbound to MSSQL port 1433 ,60645,1433
+4/6/2012 0:07,172.23.236.8,172.23.0.1, Potentially Bad Traffic,2, [1:2010935:2] ET POLICY Suspicious inbound to MSSQL port 1433 ,60645,1433
+4/6/2012 0:07,172.23.236.8,172.23.0.1, Potentially Bad Traffic,2, [1:2010935:2] ET POLICY Suspicious inbound to MSSQL port 1433 ,60646,1433
+4/6/2012 0:07,172.23.236.8,172.23.0.1, Potentially Bad Traffic,2, [1:2010935:2] ET POLICY Suspicious inbound to MSSQL port 1433 ,60646,1433
+4/6/2012 0:07,172.23.236.8,172.23.0.1, Potentially Bad Traffic,2, [1:2010936:2] ET POLICY Suspicious inbound to Oracle SQL port 1521 ,60645,1521
+4/6/2012 0:07,172.23.236.8,172.23.0.1, Potentially Bad Traffic,2, [1:2010936:2] ET POLICY Suspicious inbound to Oracle SQL port 1521 ,60645,1521
+4/6/2012 0:08,172.23.236.8,172.23.0.1, Potentially Bad Traffic,2, [1:2010936:2] ET POLICY Suspicious inbound to Oracle SQL port 1521 ,60646,1521
+4/6/2012 0:08,172.23.236.8,172.23.0.1, Potentially Bad Traffic,2, [1:2010936:2] ET POLICY Suspicious inbound to Oracle SQL port 1521 ,60646,1521
+4/6/2012 0:08,172.23.231.69,172.23.0.1, Misc activity,3, [1:2002995:9] ET SCAN Rapid IMAPS Connections - Possible Brute Force Attack ,38950,993
+4/6/2012 0:08,172.23.231.69,172.23.0.1, Misc activity,3, [1:2002993:6] ET SCAN Rapid POP3S Connections - Possible Brute Force Attack ,45794,995
+4/6/2012 0:09,10.32.5.56,172.23.240.155, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,10124
+4/6/2012 0:09,10.32.5.56,172.23.233.58, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,14973
+4/6/2012 0:09,10.32.5.51,172.23.233.52, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,14976
+4/6/2012 0:09,10.32.5.54,172.23.233.56, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,14982
+4/6/2012 0:10,10.32.5.58,172.23.239.79, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,10140
+4/6/2012 0:10,10.32.5.54,172.23.239.73, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,10142
+4/6/2012 0:10,10.32.5.56,172.23.239.85, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,10144
+4/6/2012 0:10,10.32.5.57,172.23.235.58, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,13613
+4/6/2012 0:10,10.32.5.54,172.23.234.152, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,14461
+4/6/2012 0:10,10.32.5.56,172.23.234.159, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,14462
+4/6/2012 0:11,10.32.5.59,172.23.240.126, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,10205
+4/6/2012 0:11,10.32.5.56,172.23.240.158, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,10207
+4/6/2012 0:11,10.32.5.54,172.23.240.33, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,10219
+4/6/2012 0:11,10.32.5.52,172.23.233.58, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,15141
+4/6/2012 0:11,10.32.5.56,172.23.233.55, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,15148
+4/6/2012 0:11,10.32.5.54,172.23.233.50, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,15149
+4/6/2012 0:12,10.32.5.59,172.23.232.50, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,15152
+4/6/2012 0:12,10.32.5.56,172.23.232.155, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,15153
+4/6/2012 0:12,10.32.5.54,172.23.235.51, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,13701
+4/6/2012 0:12,10.32.5.58,172.23.233.51, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,15214
+4/6/2012 0:12,10.32.5.54,172.23.233.52, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,15217
+4/6/2012 0:12,10.32.5.56,172.23.235.58, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,13741
+4/6/2012 0:13,10.32.5.51,172.23.239.74, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,10269
+4/6/2012 0:13,10.32.5.56,172.23.239.71, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,10270
+4/6/2012 0:13,10.32.5.54,172.23.239.80, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,10273
+4/6/2012 0:13,172.23.236.8,172.23.0.1, Potentially Bad Traffic,2, [1:2010937:2] ET POLICY Suspicious inbound to mySQL port 3306 ,60645,3306
+4/6/2012 0:13,172.23.236.8,172.23.0.1, Potentially Bad Traffic,2, [1:2010937:2] ET POLICY Suspicious inbound to mySQL port 3306 ,60645,3306
+4/6/2012 0:13,172.23.236.8,172.23.0.1, Potentially Bad Traffic,2, [1:2010937:2] ET POLICY Suspicious inbound to mySQL port 3306 ,60646,3306
+4/6/2012 0:13,172.23.236.8,172.23.0.1, Potentially Bad Traffic,2, [1:2010937:2] ET POLICY Suspicious inbound to mySQL port 3306 ,60646,3306
+4/6/2012 0:13,172.23.231.69,172.23.0.1, Potentially Bad Traffic,2, [1:2010935:2] ET POLICY Suspicious inbound to MSSQL port 1433 ,53648,1433
+4/6/2012 0:13,172.23.231.69,172.23.0.1, Potentially Bad Traffic,2, [1:2010935:2] ET POLICY Suspicious inbound to MSSQL port 1433 ,53648,1433
+4/6/2012 0:13,172.23.0.203,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,2694,445
+4/6/2012 0:13,172.23.0.203,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,2694,445
+4/6/2012 0:13,10.32.5.57,172.23.234.150, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,14707
+4/6/2012 0:13,10.32.5.56,172.23.235.59, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,13811
+4/6/2012 0:13,10.32.5.54,172.23.233.52, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,15314
+4/6/2012 0:13,172.23.231.69,172.23.0.1, Potentially Bad Traffic,2, [1:2010935:2] ET POLICY Suspicious inbound to MSSQL port 1433 ,53649,1433
+4/6/2012 0:13,172.23.231.69,172.23.0.1, Potentially Bad Traffic,2, [1:2010935:2] ET POLICY Suspicious inbound to MSSQL port 1433 ,53649,1433
+4/6/2012 0:13,172.23.231.69,172.23.0.1, Potentially Bad Traffic,2, [1:2010935:2] ET POLICY Suspicious inbound to MSSQL port 1433 ,53079,1433
+4/6/2012 0:14,172.23.231.69,172.23.0.1, Potentially Bad Traffic,2, [1:2010936:2] ET POLICY Suspicious inbound to Oracle SQL port 1521 ,53648,1521
+4/6/2012 0:14,172.23.231.69,172.23.0.1, Potentially Bad Traffic,2, [1:2010936:2] ET POLICY Suspicious inbound to Oracle SQL port 1521 ,53648,1521
+4/6/2012 0:14,10.32.5.52,172.23.238.73, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,9886
+4/6/2012 0:14,10.32.5.54,172.23.233.158, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,15328
+4/6/2012 0:14,10.32.5.56,172.23.238.129, Misc activity,3, [1:2000355:5] ET POLICY IRC authorization message ,6667,9889
+4/6/2012 0:14,172.23.0.205,172.23.0.10, Generic Protocol Command Decode,3, [1:2103003:7] GPL NETBIOS SMB-DS Session Setup NTMLSSP unicode asn1 overflow attempt ,2660,445
+4/6/2012 0:14,172.23.0.205,172.23.0.10, Generic Protocol Command Decode,3, [1:2102466:9] GPL NETBIOS SMB-DS IPC$ unicode share access ,2660,445

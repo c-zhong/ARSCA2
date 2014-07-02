@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Experience_Trees>
+  <Experience_Tree ID="ExT  (75418242)">
+    <Experience_Unit ID="NULL_ACTION_OBSERVATION  (75418242)" truth_value="N" detail="N">
+      <Hypothesis ID="REASONING_BRANCH  (32118588)" truth_value="0" type="0" detail="">
+        <Experience_Unit ID="EU  (32118588)" truth_value="N" detail="N" />
+      </Hypothesis>
+    </Experience_Unit>
+  </Experience_Tree>
+  <Experience_Tree ID="ExT  (75418242)">
+    <Experience_Unit ID="NULL_ACTION_OBSERVATION  (75418242)" truth_value="N" detail="N">
+      <Hypothesis ID="REASONING_BRANCH  (32118588)" truth_value="0" type="0" detail="">
+        <Experience_Unit ID="EU  (32118588)" truth_value="N" detail="N" />
+      </Hypothesis>
+    </Experience_Unit>
+  </Experience_Tree>
+  <Experience_Tree ID="ExT  (6718265)">
+    <Experience_Unit ID="NULL_ACTION_OBSERVATION  (6718265)" truth_value="N" detail="N">
+      <Hypothesis ID="REASONING_BRANCH  (63718023)" truth_value="0" type="0" detail="">
+        <Experience_Unit ID="EU  (63718023)" truth_value="N" detail="N">
+          <Hypothesis ID="H_192_168_174_  (63718023)" truth_value="0" type="0" detail="192.168.2.174 is scanning other machines in the same subnet, i.e. 192.168.2.*. This suggests that there is worm or malware infection in this subnet.">
+            <Experience_Unit ID="EU  (37418288)" truth_value="N" detail="N">
+              <Hypothesis ID="H_192_168_175_  (37418288)" truth_value="0" type="0" detail="192.168.2.175 is scanning machines in the other subnet, i.e. 192.168.1.*. This is captured by IDS log. This suggests 192.168.2.175 might has been controlled by attackers. It might have been infected by worm or malware. Or it is in the control of a insider attacker.">
+                <Experience_Unit ID="EU  (63818283)" truth_value="N" detail="N">
+                  <Hypothesis ID="H_192_168_175_  (63818283)" truth_value="0" type="0" detail="192.168..2.175 is port sweeping the machine 192.168.1.150. This means 192.168.2.175 is specially interested in 192.168.1.150, after port scanning. This might be because it found there exist some vulnerabilities or interesting services on 192.168.1.150.">
+                    <Experience_Unit ID="EU  (46418245)" truth_value="N" detail="N">
+                      <Hypothesis ID="H_192_168_175_  (46418245)" truth_value="0" type="0" detail="192.168.2.175 sent packets using BARE BYTE UNICODE ENCODING (BBUE) to three machines in the other subnet, i.e. 192.168.1.10-12:80. BBUE allows the users te emulate IIS (internet information service) server, 192.168.2.175 sent these packets to the targeted machines' 80 port. The targeted machines are workstations instead of webservsers. It is very uncommon to communicate with the 80 port of non-webservers. This very suspicious. Maybe 192.168.2.175 is trying to gather information from the targetd machines or try to infect them." />
+                    </Experience_Unit>
+                  </Hypothesis>
+                </Experience_Unit>
+              </Hypothesis>
+            </Experience_Unit>
+          </Hypothesis>
+        </Experience_Unit>
+      </Hypothesis>
+    </Experience_Unit>
+  </Experience_Tree>
+</Experience_Trees>

@@ -1,0 +1,17 @@
+Misc activity: Miscellaneous activity
+Src Ip: Source IP
+Des Ip: Destination IP
+protocol: The textual form of the IP layer protocol. Examples: TCP, UDP.
+priority: The priority of the message. Potential values, ranging from most to least severe: Alert, Critical, Error, Warning, Notice - Notification, Info - Informational, Debugging
+operation: A term describing the operation being logged. Examples: Built, Teardown, Deny
+ASA-4-106023: 	Deny protocol src [interface_name:source_address/source_port] dst interface_name:dest_address/dest_port [type {string}, code {code}] by access_group acl_ID [0x8ed66b60, 0xf8852875]
+ASA-6-106015: Deny TCP (no connection) from IP_address/port to IP_address/port flags tcp_flags on interface interface_name.
+ASA-6-302013: Built {inbound|outbound} TCP connection_id for interface:real-address/real-port (mapped-address/mapped-port) to interface:real-address/real-port (mapped-address/mapped-port) [(user)]
+ASA-6-302014: Teardown TCP connection id for interface:real-address/real-port to interface:real-address/real-port duration hh:mm:ss bytes bytes [reason] [(user)]
+ASA-6-302015: Built {inbound|outbound} UDP connection number for interface_name:real_address/real_port (mapped_address/mapped_port) to interface_name:real_address/real_port (mapped_address/mapped_port) [(user)]
+ASA-6-302016: Teardown UDP connection number for interface:real-address/real-port to interface:real-address/real-port duration hh:mm:ss bytes bytes [(user)]
+GPL: General Public Licence, a name of a Snort rule set
+ET: Emerging Threat, a name of a Snort rule set
+NetBios: an acronym for Network Basic Input/Output System
+Internet Relay Chat (IRC): a protocol for live interactive Internet text messaging (chat) or synchronous conferencing.It is mainly designed for group communication in discussion forums, called channels, but also allows one-to-one communication via private message as well as chat and data transfer,including file sharing.
+IDS: Intrusion Detection System

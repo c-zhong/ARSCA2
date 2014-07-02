@@ -1,0 +1,5 @@
+C:\Users\ASummer\Google Drive\Project\MURI\Code and Related Doc\Experience_Based_Cyber_SA-2014-05-19 GUI Testing\CodedUITestProject1\bin\Debug\CodedUITestProject1.dll
+C:\Users\ASummer\Google Drive\Project\MURI\Code and Related Doc\Experience_Based_Cyber_SA-2014-05-19 GUI Testing\CodedUITestProject1\bin\Debug\CodedUITestProject1.pdb
+C:\Users\ASummer\Google Drive\Project\MURI\Code and Related Doc\Experience_Based_Cyber_SA-2014-05-19 GUI Testing\CodedUITestProject1\obj\Debug\CodedUITestProject1.csprojResolveAssemblyReference.cache
+C:\Users\ASummer\Google Drive\Project\MURI\Code and Related Doc\Experience_Based_Cyber_SA-2014-05-19 GUI Testing\CodedUITestProject1\obj\Debug\CodedUITestProject1.dll
+C:\Users\ASummer\Google Drive\Project\MURI\Code and Related Doc\Experience_Based_Cyber_SA-2014-05-19 GUI Testing\CodedUITestProject1\obj\Debug\CodedUITestProject1.pdb

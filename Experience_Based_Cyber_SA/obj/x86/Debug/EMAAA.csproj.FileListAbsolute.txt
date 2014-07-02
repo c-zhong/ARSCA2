@@ -1,0 +1,13 @@
+c:\users\amyamyamy\documents\visual studio 2010\Projects\EMAAA\EMAAA\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\amyamyamy\documents\visual studio 2010\Projects\EMAAA\EMAAA\obj\x86\Debug\EMAAA.frmMain.resources
+c:\users\amyamyamy\documents\visual studio 2010\Projects\EMAAA\EMAAA\obj\x86\Debug\EMAAA.Properties.Resources.resources
+c:\users\amyamyamy\documents\visual studio 2010\Projects\EMAAA\EMAAA\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\amyamyamy\documents\visual studio 2010\Projects\EMAAA\EMAAA\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\amyamyamy\documents\visual studio 2010\Projects\EMAAA\EMAAA\bin\Debug\EMAAA.exe
+c:\users\amyamyamy\documents\visual studio 2010\Projects\EMAAA\EMAAA\bin\Debug\EMAAA.pdb
+c:\users\amyamyamy\documents\visual studio 2010\Projects\EMAAA\EMAAA\obj\x86\Debug\EMAAA.exe
+c:\users\amyamyamy\documents\visual studio 2010\Projects\EMAAA\EMAAA\obj\x86\Debug\EMAAA.pdb
+C:\Users\amyamyamy\Documents\Visual Studio 2010\Projects\EMAAA\EMAAA\obj\x86\Debug\EMAAA.frmObservation.resources
+C:\Users\amyamyamy\Documents\Visual Studio 2010\Projects\EMAAA\EMAAA\obj\x86\Debug\EMAAA.frmHypothesis.resources
+C:\Users\amyamyamy\Documents\Visual Studio 2010\Projects\EMAAA\EMAAA\obj\x86\Debug\EMAAA.frmHypoTree.resources
+C:\Users\amyamyamy\Documents\Visual Studio 2010\Projects\EMAAA\EMAAA\obj\x86\Debug\EMAAA.frmConfirmObs.resources
